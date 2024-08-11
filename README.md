@@ -1,0 +1,1 @@
+This code creates an AI agent that leverages the capabilities of a large language model. This agent is able to extract answers based on the content of a large PDF document and creates a text file which contains individual question and followed by their answers.An user need to give a pdf as an input and a set of questions that need to be answered.
